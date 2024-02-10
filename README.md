@@ -1,5 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on: Developing a mobile apps / automating everything that can be automated (with Python).<br><br>👯 I’m looking to collaborate on: Exciting projects related to mobile development or anything that involves pushing the boundaries of technology.<br><br>🤝 I’m looking for help with: Streamlining the user experience in my current mobile project and optimizing performance.<br><br>🌱 I’m currently learning: Advanced techniques in mobile app design and development, particularly focusing on Flutter.<br><br>💬 Ask me about:  Shoot me a message about anything from design to app development, or even what snacks keep me going during those long coding sessions!<br><br>⚡ Fun fact: I'm a huge fan of outdoor adventures and love to incorporate nature into my coding breaks – coding under the shade of a tree is surprisingly refreshing! 🌳
+# 🎧 About Me:
+Hey there! I'm [Tu Nombre], and I'm passionate about creating mobile apps and automating tasks with Python. Here's a bit more about what I'm up to:
+
+🛠️ **I’m currently working on:** Developing mobile apps and automating tasks to streamline processes and boost efficiency, all with the power of Python.
+
+🤝 **I’m looking to collaborate on:** Exciting projects related to mobile development or anything that pushes the boundaries of technology. Let's team up and create something awesome!
+
+🔍 **I’m looking for help with:** Enhancing the user experience in my current mobile project and optimizing its performance to deliver the best possible results.
+
+📚 **I’m currently learning:** I'm diving deep into advanced techniques in mobile app design and development, with a particular focus on mastering Flutter for cross-platform excellence.
+
+💬 **Ask me about:** Whether it's design, app development, or even my go-to snacks for those marathon coding sessions, feel free to shoot me a message – I'm all ears!
+
+🌳 **Fun fact:** When I'm not coding, you'll likely find me out exploring the great outdoors. I love incorporating nature into my coding breaks – there's something incredibly refreshing about coding under the shade of a tree! 🌿
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rulo_coffn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-arroyo-78b06560) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@@rulo_coffn) 
