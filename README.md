@@ -1,5 +1,5 @@
 # 🎧 About Me:
-Hey there! I'm [Tu Nombre], and I'm passionate about creating mobile apps and automating tasks with Python. Here's a bit more about what I'm up to:
+Hey there! I'm Rulo, and I'm passionate about creating mobile apps and automating tasks with Python. Here's a bit more about what I'm up to:
 
 🛠️ **I’m currently working on:** Developing mobile apps and automating tasks to streamline processes and boost efficiency, all with the power of Python.
 
