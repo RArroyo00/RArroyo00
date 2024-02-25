@@ -40,8 +40,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ## Dev Card
+
 <div align="center">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/RArroyo00/RArroyo00/blob/main/devcard.svg" width="400" alt="Rulo's Dev Card"/></a>
+  <a href="https://app.daily.dev/RArroyo00"><img src="./devcard.png" width="356" alt="Rulo's Dev Card"/></a>
 </div>
 
 ---
