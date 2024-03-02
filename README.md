@@ -1,6 +1,6 @@
-<h1 align="center">Hey there! I'm Rulo</h1>
-<h3 align="center">A mobile developer, I'm passionate about creating mobile apps and automating tasks with Python. Here's a bit more about what I'm up to:</h3>
-
+<h1 align="center">Hey there! I'm R̴̡̮̻̤̫͙̒͗̌͊u̷̡̻̩̹̣̺̝͐̃̆͑͑̄̿̌ͅͅl̷̘̠̽̈́͗̎̽o̶̘̓́͐̏̔</h1>
+<h2 align="center">A mobile developer, I'm passionate about creating mobile apps and automating tasks with Python.</h2>
+<h3 align="left"> Here's a bit more about what I'm up to: </h3>
 
 **I’m currently working on** developing mobile apps and automating tasks to streamline processes and boost efficiency, all with the power of Python.
 
@@ -85,6 +85,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### CICD
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-%23F88715.svg?style=for-the-badge&logo=harness&logoColor=F88715)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
 ### Other Tools
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
@@ -123,6 +130,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-%23191919.svg?style=for-the-badge&logo=xcode&logoColor=white) 
 ![Zeplin](https://img.shields.io/badge/Zeplin-%23000000.svg?style=for-the-badge&logo=zeplin&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)
+
 
 ##  GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=RArroyo00&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
