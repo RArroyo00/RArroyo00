@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><h2>A mobile developer, I'm passionate about creating mobile apps and automating tasks with Python. </h2></td>
-    <td><img src="./me.gif" alt="Me, but glitched" width="200"></td>
+    <td><p align="center"><img src="./me.gif" alt="Me, but glitched" width="65%" align></p></td>
   </tr>
 </table>
 
