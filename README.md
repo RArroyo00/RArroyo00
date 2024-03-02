@@ -42,7 +42,7 @@
 ## Dev Card
 
 <div align="center">
-  <a href="https://app.daily.dev/rulo"><img src="./devcard.png" width="356" alt="Rulo's Dev Card"/></a>
+ <a href="https://app.daily.dev/rulo_"><img src="https://api.daily.dev/devcards/v2/8fac7a4eb1ea46e4a2ea130622aef1d8.png?type=default&r=0rn" width="356" alt="Raúl Arroyo's Dev Card"/></a>
 </div>
 
 ---
