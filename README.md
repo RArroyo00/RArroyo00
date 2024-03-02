@@ -140,12 +140,16 @@
 
 
 ##  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RArroyo00&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RArroyo00&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RArroyo00&theme=dark&hide_border=false&include_all_commits=false&count_private=true&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api?username=RArroyo00&theme=nord&hide_border=true&include_all_commits=false&count_private=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=RArroyo00&theme=nord&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RArroyo00&theme=nord&hide_border=true&include_all_commits=false&count_private=true&hide_progress=true)
 
 ## Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+<div style="text-align:center">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=nord" />
+</div>
+
 
 ## Dev Card
 
