@@ -1,5 +1,12 @@
-<h1 align="center">Hey there! I'm R̴̡̮̻̤̫͙̒͗̌͊u̷̡̻̩̹̣̺̝͐̃̆͑͑̄̿̌ͅͅl̷̘̠̽̈́͗̎̽o̶̘̓́͐̏̔</h1>
-<h2 align="center">A mobile developer, I'm passionate about creating mobile apps and automating tasks with Python.</h2>
+<h1  align="center">Hey there! I'm R̖̭͓̣ͩ͌̓͊͢u̶̘̣̬̹̰͔͐̓̔ļ͈̮̫͆̓͆ͦő̼̣͓̣͠</h1>  
+   
+<table>
+  <tr>
+    <td><h2>A mobile developer, I'm passionate about creating mobile apps and automating tasks with Python. </h2></td>
+    <td><img src="./me.gif" alt="Me, but glitched" width="200"></td>
+  </tr>
+</table>
+
 <h3 align="left"> Here's a bit more about what I'm up to: </h3>
 
 **I’m currently working on** developing mobile apps and automating tasks to streamline processes and boost efficiency, all with the power of Python.
@@ -147,5 +154,6 @@
 </div>
 
 ---
+<p align="right">.-. ..- .-.. --- </p>
 
 
