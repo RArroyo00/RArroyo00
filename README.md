@@ -25,7 +25,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rulo_coffn) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-arroyo-78b06560)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@rulo_coffn) 
-[![dev.to](https://img.shields.io/badge/-dev.to-%230A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://mastodon.social/@rulo_coffn) 
+[![dev.to](https://img.shields.io/badge/-dev.to-%230A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rarroyo00) 
 
 ## Tech Stack
 
