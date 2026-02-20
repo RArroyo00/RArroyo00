@@ -79,14 +79,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  ![RArroyo00's GitHub stats](https://github-readme-stats.vercel.app/api?username=RArroyo00&theme=nord&hide_border=true&include_all_commits=false)
-  ![RArroyo00's Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RArroyo00&theme=nord&hide_border=true&layout=compact)
-  ![RArroyo00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RArroyo00&theme=nord&hide_border=true)
-</div>
-
 > <div align="center">
 >   <img src="https://quotes-github-readme.vercel.app/api?theme=nord" />
 > </div>
