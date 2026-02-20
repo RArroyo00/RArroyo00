@@ -6,7 +6,7 @@
 <div align="center">
   <img src="./me.gif" alt="Raúl Arroyo" width="300"/>
   <br><br>
-  <strong>Flutter • Kotlin Multiplatform • Clean Architecture • AI-Assisted Development</strong>
+  <strong>Flutter • Kotlin Multiplatform • Clean Architecture</strong>
 </div>
 
 ---
