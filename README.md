@@ -1,12 +1,13 @@
 <h1 align="center">Raul Arroyo</h1>
+
 <p align="center">
-  <em>Senior Mobile Developer | 15+ Years Crafting Scalable Cross-Platform Apps</em>
+  <strong>Mobile Developer | 15+ Years Engineering Scalable Cross-Platform Apps</strong>
 </p>
 
 <div align="center">
   <img src="./me.gif" alt="Raúl Arroyo" width="300"/>
   <br><br>
-  <strong>Flutter • Kotlin Multiplatform • Clean Architecture</strong>
+  <em>Senior Multiplatform Developer • Kotlin Multiplatform • iOS • Flutter</em>
 </div>
 
 ---
