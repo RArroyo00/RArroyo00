@@ -7,8 +7,16 @@
 <div align="center">
   <img src="./me.gif" alt="Raúl Arroyo" width="300"/>
   <br><br>
-  <em>Senior Multiplatform Developer • Kotlin Multiplatform • iOS • Flutter</em>
+  <em style="font-size: 18px; line-height: 1.3;">
+    Senior Multiplatform Developer
+  </em>
+  <br><br>
 </div>
+
+<p align="center">
+  <img src="https://i.icoziv.workers.dev/icons?i=android-dark,apple-dark,kotlin-dark,ios,flutter-dark" alt="" />
+</p>
+
 
 ---
 
@@ -77,12 +85,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase Distribution](https://img.shields.io/badge/Firebase_Distribution-%230D1117.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/TestFlight-%230D1117.svg?style=for-the-badge&logo=appstore&logoColor=white)
-
----
-
-> <div align="center">
->   <img src="https://quotes-github-readme.vercel.app/api?theme=nord" />
-> </div>
 
 ---
 
